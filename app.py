@@ -21,7 +21,7 @@ client = Groq(
 # =====================================================
 
 st.set_page_config(
-    page_title="AI Knowledge Assistant",
+    page_title="Industrial maintanence knowledge Bot",
     page_icon="🤖",
     layout="wide"
 )
